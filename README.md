@@ -33,4 +33,5 @@ Este projeto implementa um assistente de busca inteligente utilizando a API do G
    ```
    GOOGLE_API_KEY=sua_chave_aqui
    ```
-3. no ia_Treinamento.py na área prompt do código defina a especialidade do assistente.
+3. No arquivo ia_Treinamento.py na área prompt do código defina a especialidade do assistente.
+4. Para fazer o deploy utilizando a imagem salva no Docker Hub faça p push e utilize com todas as configurações realizadas, inclusive a adição do nome da mesma no deployment.yaml.
