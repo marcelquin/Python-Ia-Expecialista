@@ -28,7 +28,8 @@ Este projeto implementa um assistente de busca inteligente utilizando a API do G
 
 
 ## Configuração
-1. Adicione sua chave de API:
+1. Crie o arquivo .env com a variavel GOOGLE_API_KEY
+2. Adicione sua chave de API:
    ```
    GOOGLE_API_KEY=sua_chave_aqui
    ```
