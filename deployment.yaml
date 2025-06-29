@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ia-assistent
-        image: mquinteiro464//ia-assistent-especialista:v2
+        image: <imagem docker aqui>
         ports:
         - containerPort: 5000
 ---
